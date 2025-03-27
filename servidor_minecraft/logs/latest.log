@@ -10267,3 +10267,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Mar2025 22:30:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [Stone Age]
 [27Mar2025 22:31:11.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [Getting an Upgrade]
 [27Mar2025 22:32:45.731] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70cf64bb[id=<null>,name=Mateo2009MC,properties={},legacy=false] (/100.73.212.13:61612) lost connection: Disconnected
+[27Mar2025 22:38:12.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cf4a406[id=<null>,name=Mateo2009MC,properties={},legacy=false] (/100.73.212.13:61703) lost connection: Disconnected
+[27Mar2025 22:39:09.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [Monster Hunter]
+[27Mar2025 22:40:00.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mateo2009MC[/100.73.212.13:61909] logged in with entity id 2988 at (-0.5, 73.0, -5.5)
+[27Mar2025 22:40:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC joined the game
+[27Mar2025 22:40:42.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Runner
+[27Mar2025 22:41:23.605] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[27Mar2025 22:41:23.699] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.699] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.700] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.700] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.701] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.702] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.702] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.703] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.703] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.704] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.704] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.705] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.794] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.794] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.795] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.795] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.796] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.796] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.796] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.797] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.797] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.797] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.798] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.798] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:41:23.799] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Mar2025 22:42:21.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Runner
+[27Mar2025 22:42:44.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Monster Hunter]
+[27Mar2025 22:43:54.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC was slain by Zombie
+[27Mar2025 22:44:16.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Zombie
+[27Mar2025 22:44:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexisromors: Set the time to 1000]
