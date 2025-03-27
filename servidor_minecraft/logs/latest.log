@@ -58,3 +58,18 @@
 [27Mar2025 01:15:22.381] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12620 ms
 [27Mar2025 01:15:22.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.502s)! For help, type "help"
 [27Mar2025 01:15:22.398] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Mar2025 02:26:12.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexisromors[/100.117.76.19:63667] logged in with entity id 32 at (-343.5, 71.0, 227.5)
+[27Mar2025 02:26:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors joined the game
+[27Mar2025 02:26:21.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors moved too quickly! -9.053195392158784,-1.0,4.820237076885718
+[27Mar2025 02:27:16.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors moved too quickly! -3.870628995813661,-1.0013359791121417,-9.19566931490914
+[27Mar2025 02:27:59.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors lost connection: Disconnected
+[27Mar2025 02:27:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors left the game
+[27Mar2025 02:28:12.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexisromors[/100.117.76.19:63755] logged in with entity id 808 at (-348.97937274244333, 69.0, 255.5975880380803)
+[27Mar2025 02:28:12.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors joined the game
+[27Mar2025 02:30:04.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Husk
+[27Mar2025 02:30:57.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors lost connection: Disconnected
+[27Mar2025 02:30:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors left the game
+[27Mar2025 02:30:57.401] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Mar2025 02:31:06.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexisromors[/100.117.76.19:63932] logged in with entity id 2336 at (-324.4454694453994, 69.0, 303.12200920832566)
+[27Mar2025 02:31:06.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors joined the game
+[27Mar2025 02:34:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Zombie
