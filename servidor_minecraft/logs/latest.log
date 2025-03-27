@@ -84,3 +84,5 @@
 [27Mar2025 02:39:18.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors moved too quickly! -9.890400409307958,1.0104000401496904,-4.533746135170247
 [27Mar2025 02:44:12.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors lost connection: Disconnected
 [27Mar2025 02:44:12.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors left the game
+[27Mar2025 02:54:53.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexisromors[/100.117.76.19:64362] logged in with entity id 7970 at (-370.1638174467426, 72.24856600785752, 410.65673349382763)
+[27Mar2025 02:54:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors joined the game
