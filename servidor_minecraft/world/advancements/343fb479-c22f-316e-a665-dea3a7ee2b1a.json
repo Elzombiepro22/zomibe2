@@ -22,6 +22,7 @@
       "maple_woods": "2025-03-27 22:49:22 +0000",
       "field": "2025-03-27 22:47:16 +0000",
       "coniferous_forest": "2025-03-27 22:45:55 +0000",
+      "forested_field": "2025-03-27 23:14:05 +0000",
       "aspen_glade": "2025-03-27 22:36:27 +0000",
       "seasonal_forest": "2025-03-27 22:49:10 +0000",
       "fir_clearing": "2025-03-27 04:40:10 +0000",
@@ -323,6 +324,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-03-27 23:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 23:01:53 +0000"
@@ -590,6 +597,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-27 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-03-27 23:20:48 +0000"
     },
     "done": true
   },

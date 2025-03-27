@@ -10350,3 +10350,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Mar2025 23:12:25.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-977, y=57, z=150} but found not block entity block Block{minecraft:water}[level=7] at location
 [27Mar2025 23:12:25.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=7] but failed at location BlockPos{x=-977, y=57, z=150}
 [27Mar2025 23:13:33.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors blew up
+[27Mar2025 23:15:35.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors moved too quickly! 9.606526352587593,3.0,-1.948447583190955
+[27Mar2025 23:16:59.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexisromors: Set own game mode to Creative Mode]
+[27Mar2025 23:17:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexisromors: Set own game mode to Survival Mode]
+[27Mar2025 23:18:39.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [What a Deal!]
+[27Mar2025 23:21:47.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [What a Deal!]
