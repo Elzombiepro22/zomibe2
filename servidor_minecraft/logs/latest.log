@@ -10303,3 +10303,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Mar2025 22:43:54.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC was slain by Zombie
 [27Mar2025 22:44:16.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Zombie
 [27Mar2025 22:44:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexisromors: Set the time to 1000]
+[27Mar2025 22:44:53.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC was slain by Walker
+[27Mar2025 22:47:18.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Leon]
+[27Mar2025 22:47:39.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [Leon]
+[27Mar2025 22:48:31.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['alexisromors'/7962, l='ServerLevel[world]', x=-371.57, y=64.00, z=181.25] died: Zombie Player was slain by Mateo2009MC
+[27Mar2025 22:50:39.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC was slain by alexisromors
+[27Mar2025 22:50:53.530] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Mateo2009MC'/10049, l='ServerLevel[world]', x=-599.87, y=68.00, z=336.13] died: Zombie Player was slain by Mateo2009MC
+[27Mar2025 22:51:00.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Suit Up]
+[27Mar2025 22:54:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [Sweet Dreams]
+[27Mar2025 22:54:04.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Sweet Dreams]
+[27Mar2025 22:59:17.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-631, y=74, z=353} BlockPos{x=-631, y=74, z=352}
+[27Mar2025 22:59:26.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Stone Age]
+[27Mar2025 23:00:10.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Getting an Upgrade]
+[27Mar2025 23:01:53.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [Acquire Hardware]
+[27Mar2025 23:02:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Acquire Hardware]
+[27Mar2025 23:03:16.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [Isn't It Iron Pick]
+[27Mar2025 23:04:40.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mateo2009MC> duerme
