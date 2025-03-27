@@ -73,3 +73,14 @@
 [27Mar2025 02:31:06.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexisromors[/100.117.76.19:63932] logged in with entity id 2336 at (-324.4454694453994, 69.0, 303.12200920832566)
 [27Mar2025 02:31:06.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors joined the game
 [27Mar2025 02:34:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Zombie
+[27Mar2025 02:35:52.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors lost connection: Timed out
+[27Mar2025 02:35:52.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors left the game
+[27Mar2025 02:36:02.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexisromors[/100.117.76.19:64074] logged in with entity id 4496 at (-322.02981921710983, 68.67647087614428, 277.0100183313098)
+[27Mar2025 02:36:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors joined the game
+[27Mar2025 02:38:39.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made alexisromors a server operator
+[27Mar2025 02:38:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexisromors: Set own game mode to Creative Mode]
+[27Mar2025 02:38:59.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors moved too quickly! 6.1021816723188635,-2.3646000939607603,7.663997917908773
+[27Mar2025 02:39:11.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors moved too quickly! -3.502285520391119,3.74999915079448,9.442537259039398
+[27Mar2025 02:39:18.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors moved too quickly! -9.890400409307958,1.0104000401496904,-4.533746135170247
+[27Mar2025 02:44:12.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexisromors lost connection: Disconnected
+[27Mar2025 02:44:12.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors left the game
