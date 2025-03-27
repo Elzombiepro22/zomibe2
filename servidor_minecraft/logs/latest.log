@@ -10355,3 +10355,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Mar2025 23:17:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexisromors: Set own game mode to Survival Mode]
 [27Mar2025 23:18:39.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC has made the advancement [What a Deal!]
 [27Mar2025 23:21:47.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors has made the advancement [What a Deal!]
+[27Mar2025 23:25:43.227] [Server thread/WARN] [pointblank/]: Mismatching item in slot 5
+[27Mar2025 23:25:43.228] [Server thread/WARN] [pointblank/]: Mismatching item in slot 5
+[27Mar2025 23:25:43.264] [Server thread/WARN] [pointblank/]: Mismatching item in slot 5
+[27Mar2025 23:25:43.379] [Server thread/WARN] [pointblank/]: Mismatching item in slot 5
+[27Mar2025 23:25:43.614] [Server thread/WARN] [pointblank/]: Mismatching item in slot 5
+[27Mar2025 23:25:43.725] [Server thread/WARN] [pointblank/]: Mismatching item in slot 5
+[27Mar2025 23:28:44.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/9456, l='ServerLevel[world]', x=-654.41, y=76.00, z=351.44] died, message: 'Gunsmith died'
+[27Mar2025 23:31:01.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/9111, l='ServerLevel[world]', x=-584.72, y=69.00, z=340.96] died, message: 'Arms Dealer died'
+[27Mar2025 23:31:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexisromors was slain by Mateo2009MC
+[27Mar2025 23:33:37.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <alexisromors> -593 319
+[27Mar2025 23:33:38.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <alexisromors> -593 319
+[27Mar2025 23:34:12.405] [Server thread/INFO] [jeg/]: Registered the following Factions: [night_of_the_undead|1|minecraft:zombie,minecraft:zombie_villager,minecraft:husk|jeg:custom_smg,jeg:waterpipe_shotgun|jeg:revolver|jeg:double_barrel_shotgun, the_rattlers|2|minecraft:skeleton,minecraft:stray|jeg:custom_smg|jeg:semi_auto_rifle|jeg:bolt_action_rifle,jeg:semi_auto_rifle, nosy_business|3|minecraft:pillager,minecraft:vindicator|jeg:pump_shotgun|jeg:semi_auto_rifle,jeg:assault_rifle|jeg:repeating_shotgun,jeg:service_rifle, bad_piggies|2|minecraft:piglin,minecraft:piglin_brute|jeg:double_barrel_shotgun,jeg:waterpipe_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:hollenfire_mk2, hell_hogs|3|minecraft:zombified_piglin,minecraft:wither_skeleton|jeg:custom_smg,jeg:waterpipe_shotgun,jeg:double_barrel_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:soulhunter_mk2, lost_souls|3|jeg:ghoul|jeg:waterpipe_shotgun,jeg:revolver|jeg:custom_smg|jeg:holy_shotgun,jeg:blossom_rifle]
+[27Mar2025 23:34:42.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/9247, l='ServerLevel[world]', x=-634.62, y=67.00, z=306.17] died, message: 'Arms Dealer was slain by Runner'
+[27Mar2025 23:36:46.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8297, l='ServerLevel[world]', x=-588.36, y=65.00, z=359.71] died, message: 'Farmer was slain by Runner'
+[27Mar2025 23:38:17.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24413, l='ServerLevel[world]', x=-384.24, y=138.00, z=810.46] died, message: 'Villager died because of Runner'
+[27Mar2025 23:38:21.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/8295, l='ServerLevel[world]', x=-542.30, y=62.94, z=345.53] died, message: 'Arms Dealer was slain by Walker'
+[27Mar2025 23:40:21.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/8296, l='ServerLevel[world]', x=-540.50, y=63.00, z=333.50] died, message: 'Fletcher was slain by Crawler'
+[27Mar2025 23:40:33.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9159, l='ServerLevel[world]', x=-594.81, y=67.50, z=341.30] died, message: 'Villager died'
+[27Mar2025 23:40:36.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/9285, l='ServerLevel[world]', x=-670.30, y=71.00, z=347.51] died, message: 'Arms Dealer was slain by Runner'
+[27Mar2025 23:41:03.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24989, l='ServerLevel[world]', x=-398.95, y=141.00, z=765.70] died, message: 'Villager was slain by Zombie'
+[27Mar2025 23:41:10.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/8293, l='ServerLevel[world]', x=-540.46, y=63.00, z=329.09] died, message: 'Arms Dealer was slain by Zombie Villager'
+[27Mar2025 23:41:18.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/9146, l='ServerLevel[world]', x=-540.77, y=67.30, z=331.30] died, message: 'Arms Dealer was slain by Zombie Villager'
+[27Mar2025 23:42:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mateo2009MC> -379 147 752
+[27Mar2025 23:43:26.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mateo2009MC lost connection: Disconnected
+[27Mar2025 23:43:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mateo2009MC left the game
